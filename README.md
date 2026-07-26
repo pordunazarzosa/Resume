@@ -69,6 +69,7 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 
 ## 📖 Education:
 
+- 2025-Now Degree on Computer Science Engineering, Universidad Nacional de Educación a Distancia (UNED).
 - 2024-2024 Fullstack Developer, 4Geeks Academy.
 - 2021-2021 The keys of Photorealism , 3D Collective.
 - 2015-2016 Master on 3D Design, Trazos.
@@ -76,7 +77,7 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 
 ## 🌎 Languages:
 - Spanish – Native 
-- English – Bilingual
-- French – Fluent
-- Portuguese – Fluent
-- Chinese - Basic
+- English – C1
+- French – B2
+- Portuguese – B1
+- Chinese - A2
