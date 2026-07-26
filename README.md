@@ -22,7 +22,7 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
     <img height="165" src="https://pordunazarzosa-readme-stats.vercel.app/api/top-langs/?username=pordunazarzosa&hide=html,css&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Lenguajes más usados" />
   </a>
   <a href="https://github.com/pordunazarzosa">
-    <img height="165" src="https://pordunazarzosa-readme-stats.vercel.app/api?username=pordunazarzosa&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Estadísticas de GitHub de Pablo" />
+    <img height="165" src="https://pordunazarzosa-readme-stats.vercel.app/api?username=pordunazarzosa&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&v=2" alt="Estadísticas de GitHub de Pablo" />
   </a>
 </p>
 
