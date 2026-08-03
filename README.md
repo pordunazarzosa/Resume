@@ -68,7 +68,7 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 </details>
 
 
-## 📖 Education:
+## 📖 Education
 
 - 2025-Now Degree on Computer Science Engineering, Universidad Nacional de Educación a Distancia (UNED).
 - 2024-2024 Fullstack Developer, 4Geeks Academy.
@@ -76,7 +76,7 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 - 2015-2016 Master on 3D Design, Trazos.
 - 2007-2014 Degree on Audiovisual Communication, Universidad Europea Miguel de Cervantes (UEMC).
 
-## 🌎 Languages:
+## 🌎 Languages
 - Spanish – Native 
 - English – C1
 - French – B2
@@ -84,6 +84,6 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 - Chinese - A2
 
 
-## Other info:
+## Other info
 
 <a href="https://www.behance.net/porduna">![Behance Badge](https://img.shields.io/badge/_-Behance-rgb?style=flat&logo=Behance&logoColor=white&labelColor=grey&color=%231769FF)</a>
