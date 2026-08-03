@@ -1,7 +1,7 @@
 
 
 <a href="http://www.linkedin.com/in/pordunazarzosa">![LinkedIn Badge](https://img.shields.io/badge/_-LinkedIn-rgb?style=flat&logo=LinkedIn&logoColor=white&labelColor=grey&color=%230A66C2)</a>
-<a href="https://www.behance.net/porduna">![Behance Badge](https://img.shields.io/badge/_-Behance-rgb?style=flat&logo=Behance&logoColor=white&labelColor=grey&color=%231769FF)</a>
+
 
 
 
@@ -82,3 +82,8 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 - French – B2
 - Portuguese – B1
 - Chinese - A2
+
+
+## Other info:
+
+<a href="https://www.behance.net/porduna">![Behance Badge](https://img.shields.io/badge/_-Behance-rgb?style=flat&logo=Behance&logoColor=white&labelColor=grey&color=%231769FF)</a>
