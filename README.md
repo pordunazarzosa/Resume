@@ -7,9 +7,11 @@
 
 Hey there 👋
 
-I’m Pablo, an enthusiastic project manager and software developer with a passion for solving human problems, with experience spanning the full software development cycle, an eagerness to collaborate with diverse teams, and a drive to deliver world-class technical expertise, I am ready to thrive in a low-hierarchy environment. I'm eager to contribute to an organization that values well-being, professional growth, and individual impact..
+I'm Pablo, and I'm making my way into cloud infrastructure. I picked up Python and SQL in a 360-hour intensive program, I'm currently studying Computer Engineering at UNED, and I've been teaching myself AWS solutions architecture on the side.
 
-Want to know more about me? [Check out my portfolio.](https://www.behance.net/porduna)
+Before all this, I spent nine years in technical environments where getting things wrong wasn't really an option. I validated software releases and reported issues back to the vendor's dev team, kept product databases and their calculation logic in line with changing regulations, and automated whatever I could with macros along the way.
+
+What I care about: things that work reliably, documentation people can actually use, and staying on the right side of compliance. I've spent plenty of time coordinating with clients and international teams, so English is no problem (C1). Based in Spain, available full-time and fully remote.
 
 <br>
 
@@ -49,10 +51,8 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 
 <br>
 
-![](https://img.shields.io/badge/_-Photoshop-rgb?style=flat&logo=adobe%20Photoshop&logoColor=white&labelColor=grey&color=%2331A8FF)
-![](https://img.shields.io/badge/_-Illustrator-rgb?style=flat&logo=adobe%20Illustrator&logoColor=white&labelColor=grey&color=%23FF9A00)
-![](https://img.shields.io/badge/_-Premiere_Pro-rgb?style=flat&logo=adobe%20Premiere%20Pro&logoColor=white&labelColor=grey&color=%239999FF)
-![](https://img.shields.io/badge/_-After_Effects-rgb?style=flat&logo=adobe%20After%20Effects&logoColor=white&labelColor=grey&color=%239999FF)
+![](https://img.shields.io/badge/_-Unreal_Engine-rgb?style=flat&logo=Unreal%20Engine&logoColor=white&labelColor=grey&color=%230E1128)
+![](https://img.shields.io/badge/_-Unity-rgb?style=flat&logo=Unity&logoColor=white&labelColor=grey&color=%23FFFFFF)
 
 <br>
 
@@ -62,8 +62,10 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 
 <br>
 
-![](https://img.shields.io/badge/_-Unreal_Engine-rgb?style=flat&logo=Unreal%20Engine&logoColor=white&labelColor=grey&color=%230E1128)
-![](https://img.shields.io/badge/_-Unity-rgb?style=flat&logo=Unity&logoColor=white&labelColor=grey&color=%23FFFFFF)
+![](https://img.shields.io/badge/_-Photoshop-rgb?style=flat&logo=adobe%20Photoshop&logoColor=white&labelColor=grey&color=%2331A8FF)
+![](https://img.shields.io/badge/_-Illustrator-rgb?style=flat&logo=adobe%20Illustrator&logoColor=white&labelColor=grey&color=%23FF9A00)
+![](https://img.shields.io/badge/_-Premiere_Pro-rgb?style=flat&logo=adobe%20Premiere%20Pro&logoColor=white&labelColor=grey&color=%239999FF)
+![](https://img.shields.io/badge/_-After_Effects-rgb?style=flat&logo=adobe%20After%20Effects&logoColor=white&labelColor=grey&color=%239999FF)
 
 </details>
 
